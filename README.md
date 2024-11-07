@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ihatenodejs
+# 👋 Hey, I’m @ihatenodejs!
 - 👀 I’m interested in HTML/CSS/JS, C#, and WinForms.
 - 🌱 I’m currently learning NodeJS (even though I hate it)
 - 💞️ Open to collaborations of all kinds!
