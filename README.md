@@ -12,7 +12,7 @@
 
 💞️ I'm open to collaborations of all kinds!
 
-👀 I’m interested in HTML/CSS/JS, C#, and WinForms.
+👀 I’m interested in HTML/CSS/JS, C#, and NodeJS.
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihatenodejs&theme=radical&border=7F3FBF&background=0D1117" alt="ihatenodejs' GitHub Streak" />
   <br>
